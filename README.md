@@ -1,0 +1,5 @@
+# Wordle Solver
+
+## Description
+
+## License
